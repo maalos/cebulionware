@@ -9,6 +9,7 @@ Minecraft 1.8 Hacked Client
 * sprint
 * sneak
 * light
+* nofall
 ## 12 april 2021
 * killaura
 * mobaura
