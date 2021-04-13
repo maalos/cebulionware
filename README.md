@@ -16,7 +16,7 @@ Minecraft 1.8 Hacked Client
 * criticals
 * antiknockback
 * ice
-## 13 april 2021
+## 13 april 2021 \[b1 release]
 * bhop
 * jesus
 * derp
