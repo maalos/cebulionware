@@ -20,3 +20,5 @@ Minecraft 1.8 Hacked Client
 * bhop
 * jesus
 * derp
+* panic
+* tabgui
