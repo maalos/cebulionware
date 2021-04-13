@@ -7,7 +7,7 @@ Minecraft 1.8 Hacked Client
 * paste the zip into %appdata%/.minecraft.versions/ (do not unpack anything)
 * add the version to your installations list in the launcher
 
-NOTE: b1 version requires java 11 to run, if ran with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
+NOTE: b1 version requires java 11 to run, if you run it with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
 
 ## Features
 * HUD
