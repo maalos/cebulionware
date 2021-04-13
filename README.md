@@ -2,21 +2,25 @@
 Minecraft 1.8 Hacked Client
 (Work in progress)
 
-## earlier in 2021
-* hooks
+## how to install
+* download the latest zip
+* paste the zip into %appdata%/.minecraft.versions/ (do not unpack anything)
+* add the version to your installations list in the launcher
+
+NOTE: b1 version requires java 11 to run, if ran with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
+
+## Features
 * HUD
 * fly
 * sprint
 * sneak
 * light
 * nofall
-## 12 april 2021
 * killaura
 * mobaura
 * criticals
 * antiknockback
 * ice
-## 13 april 2021 \[b1 release]
 * bhop
 * jesus
 * derp
