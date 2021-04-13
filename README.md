@@ -3,7 +3,7 @@ Minecraft 1.8 Hacked Client
 (Work in progress)
 
 ## how to install
-* download the latest zip
+* click on the latest file (DO NOT CLONE THE WHOLE REPO), and click download
 * paste the zip into %appdata%/.minecraft.versions/ (do not unpack anything)
 * add the version to your installations list in the launcher
 
