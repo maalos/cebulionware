@@ -27,3 +27,10 @@ NOTE: b1 version requires java 11 to run, if you run it with java 8 you'll only 
 * derp
 * panic
 * tabgui
+* headless
+* step
+* spider
+* timer (x2)
+* insaneaura
+* chat(almost)spammer
+* reach (4.5 -> 6)
