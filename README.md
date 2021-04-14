@@ -11,26 +11,26 @@ Minecraft 1.8-1.8.9 Hacked Client
 NOTE: b1 and b2 version requires java 11 to run, if you run it with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
 
 ## Features
-* HUD
-* fly
-* sprint
-* sneak
-* light
-* nofall
-* killaura
-* mobaura
-* criticals
-* antiknockback
-* ice
-* bhop
-* jesus
-* derp
-* panic
-* tabgui
-* headless
-* step (2 blocks)
-* spider
-* timer (x2)
-* insaneaura (higher reach than killaura)
-* chat(almost)spammer
-* reach (4.5 -> 6)
+* HUD (module list)
+* TabGUI (Cheat menu)
+* Fly (Fly like a bird)
+* Sprint (Auto sprinting)
+* Sneak (Sneak all the time like you want to shit hard)
+* Light (You won't see the darkness anymore)
+* NoFall (No fall damage)
+* Killaura (Attacks enemies around you)
+* Mobaura (Killaura, but attacks hostile mobs)
+* Criticals (Deal more damage \[minijumps])
+* AntiKnockback (when someone hit, you don't go flying brr)
+* Ice (Increased clientsided block slipperiness)
+* BunnyHop (Run'n'Jump faster)
+* Jesus (Walk on liquids)
+* Derp (Visible only to other players, random body, head and hand movement)
+* Panic (Turns off all modules, except the TabGUI)
+* Headless (Only visible to other players, your head is in your body)
+* Step (Immidiately climb blocks \[max 2])
+* Spider (Climb vertical walls like ladders)
+* Timer (Makes the time on your side go brr \[2x])
+* Insaneaura (Higher reach than Killaura)
+* Chatspammer (almost, spams the chat with the client's name)
+* Reach (LOOONG hand, 4.5 -> 6)
