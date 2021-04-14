@@ -32,5 +32,5 @@ NOTE: b1 and b2 version requires java 11 to run, if you run it with java 8 you'l
 * Spider (Climb vertical walls like ladders)
 * Timer (Makes the time on your side go brr \[2x])
 * Insaneaura (Higher reach than Killaura)
-* Chatspammer (almost, spams the chat with the client's name)
-* Reach (LOOONG hand, 4.5 -> 6)
+* ChatSpammer (almost, spams the chat with the client's name)
+* Reach (LOOOOONG hand, 4.5 -> 6)
