@@ -31,6 +31,6 @@ NOTE: b1 and b2 version requires java 11 to run, if you run it with java 8 you'l
 * step (2 blocks)
 * spider
 * timer (x2)
-* insaneaura (higher reach than killaura + reach)
+* insaneaura (higher reach than killaura)
 * chat(almost)spammer
 * reach (4.5 -> 6)
