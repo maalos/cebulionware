@@ -8,7 +8,7 @@ Minecraft 1.8-1.8.9 Hacked Client
 * unpack the zip here using the standard windows zip tool
 * add the version to your installations list in the launcher
 
-NOTE: b1 and b2 version requires java 11 to run, if you run it with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
+NOTE: b1, b2 and b3 require java 11 to run, if you run it with java 8 you'll only get errors, so install java 11 (and select the right executable in the installation properties) or wait for the next release, which will require java 8.
 
 ## Features
 * HUD (module list)
