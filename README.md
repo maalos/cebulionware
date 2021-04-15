@@ -34,3 +34,4 @@ NOTE: b1, b2 and b3 require java 11 to run, if you run it with java 8 you'll onl
 * Insaneaura (Higher reach than Killaura)
 * ChatSpam (spams the chat with the client's name)
 * Reach (LOOOOONG hand, 4.5 -> 6)
+* Custom Main Menu
